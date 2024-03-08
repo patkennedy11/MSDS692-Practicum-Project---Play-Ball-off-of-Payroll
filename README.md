@@ -49,7 +49,7 @@ Findings:
 - There have only been 3 instances of a team in the top 5 rank that had a below .500 winning percentage.
 
 ## Predictive Model
-Since the goal of the project is to predict multiple outputs for the future dataset based on trends from the historical dataset, I decided to use a Random Forest Regressor wrapped in a Multi-Output Regressior.
+Since the goal of the project is to predict multiple outputs for the future dataset based on trends from the historical dataset, I decided to use a Random Forest Regressor wrapped in a Multi-Output Regressor.
 
 From Historic Dataset:
 - Features: Financial Data columns
