@@ -77,5 +77,8 @@ National League
 5) New York Mets (58%) - Wild Card Team #2
 6) Pittsburgh Pirates (54%) - Wild Card Team #3
 
-## Predicted 2024 Postseason Bracket:
+## Predicted 2024 Postseason Bracket
 <img width="1139" alt="PostseasonBracket" src="https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/assets/146998300/ae5eb181-8a98-46c6-822e-5d125c28bd87">
+
+## All 2024 Predictions:
+[2024_Predictions.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544057/2024_Predictions.csv)
