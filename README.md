@@ -14,11 +14,12 @@ What effect does a MLB team’s payroll have on the success and output of the pr
 
 ## About the Data
 Two datasets:
-- Historical Dataset
+- Historical Dataset: [MLB_HistoricalPayroll.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544075/MLB_HistoricalPayroll.csv)
   - 2019 – 2023
   - 1st half of dataset: Financial Data (Payroll Information & Ranking)
   - 2nd half of dataset: Performance Data (Win %, batting stats, pitching stats, Postseason - Y/N)
-- Future Dataset
+- Future Dataset: [MLB_FuturePayroll.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544088/MLB_FuturePayroll.csv)
+
   - 2024 Financial Data
   - No Performance Data (season has yet to start)
   - Goal: Make predictions for 2024 Performance Data
