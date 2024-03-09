@@ -17,10 +17,12 @@ Two datasets:
 - Historical Dataset: [MLB_HistoricalPayroll.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544075/MLB_HistoricalPayroll.csv)
   - 2019 – 2023
   - 1st half of dataset: Financial Data (Payroll Information & Ranking)
+    - Source: https://www.espn.com/mlb/stats/team/_/season/2023/seasontype/2
   - 2nd half of dataset: Performance Data (Win %, batting stats, pitching stats, Postseason - Y/N)
+    - Source: https://www.mlb.com/stats/team
 - Future Dataset: [MLB_FuturePayroll.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544088/MLB_FuturePayroll.csv)
-
   - 2024 Financial Data
+    - Source: https://www.mlb.com/stats/team
   - No Performance Data (season has yet to start)
   - Goal: Make predictions for 2024 Performance Data
 
