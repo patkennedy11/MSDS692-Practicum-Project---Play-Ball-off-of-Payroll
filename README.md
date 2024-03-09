@@ -85,3 +85,6 @@ National League
 
 ## All 2024 Predictions:
 [2024_Predictions.csv](https://github.com/patkennedy11/MSDS692_PracticumProject--Play_Ball_off_of_Payroll/files/14544057/2024_Predictions.csv)
+
+# Conclusion
+In this project, I examined the relationship between MLB teams' payroll and their output and success on the field. Furthermore, I made predictions for team statistics based on preseason payroll data. Throughout the project, I found strong correlations between pitching stats and payroll rank. In addition, there were interesting correlations between payroll rank, winning percentage, and whether or not a team made the postseason that year. To make predictions for the 2024 season, I used Multi-Output Regresson and Random Forest Regresson. I am excited measure how my preseason predictions match up at the end of the 2024 regular season in October!
